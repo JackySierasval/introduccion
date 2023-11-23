@@ -1,0 +1,13 @@
+body{background-color: #73D2FA;}
+table{background-color: white;width: 1000px;margin-left: auto;margin-right: auto;}
+.titulo{font-size: 30px}
+td,th{border-style: solid;border-color: black;}
+td{text-align: center;}
+img{height: 200px;width: 320px}
+.foto1{height:200px;width: 190px}
+.foto2{height:200px;width: 200px}
+.foto3{height: 200px;width: 170px}
+.foto4{height: 200px;width: 165px}
+.logos{height:100px;width: 250px}
+.derechos{font-size: 25px}
+.menu{font-size: 22px}
